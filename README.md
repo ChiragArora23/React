@@ -1,8 +1,5 @@
-# React + Vite
+# Background Changer 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A basic react app to showcase the concept of useState. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/ChiragArora23/React/assets/38328451/637ac23c-3534-4bf8-b33b-a2f764a5e9b4)
