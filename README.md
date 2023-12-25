@@ -2,4 +2,5 @@
 
 A basic react app to showcase the concept of useState. 
 
-![image](https://github.com/ChiragArora23/React/assets/38328451/637ac23c-3534-4bf8-b33b-a2f764a5e9b4)
+https://github.com/ChiragArora23/React/assets/38328451/33eb99cf-c1ff-41c4-82e7-b7f4e505561e
+
